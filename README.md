@@ -1,4 +1,5 @@
-##Hemi Network Miming 
+**Hemi Network Miming**
+
 
 Requirements
 
@@ -10,16 +11,6 @@ Requirements
 | Bandwidth                    | 100Mbit/s                           |
 
 
-##Auto Install 
+**Auto Install**
 
-```wget https://raw.githubusercontent.com/ZonaAirdrop/Hemi-sh/main/Hemi.sh && chmod +x Hemi.sh && ./Hemi.sh```
 
-## Use New Wallet 
-
-Check Logs
-
-```screen -r zonaairdrop```
-
-Check Privat key Address 
-
-```cat ~/popm-address.json```
