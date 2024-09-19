@@ -27,4 +27,8 @@ cat ~/popm-address.json
 
 **Notes: Use New Wallet Select No. 1 Save Private key and Wallet Address. Fill in the Faucet in Discord. and run your mining**
 
+**Check Thx Hemi Sepolia**
+## https://mempool.space/testnet/address/
 
+**Check Thx tBTC Hemi**
+## https://mempool.space/testnet/address/
