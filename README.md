@@ -11,6 +11,20 @@ Requirements
 | Bandwidth                    | 100Mbit/s                           |
 
 
-**Auto Install**
+## Auto Install
+
+```bash
+wget https://raw.githubusercontent.com/ZonaAirdrop/Hemi-sh/main/Hemi.sh && chmod +x Hemi.sh && ./Hemi.sh
+```
+- Check logs
+```bash
+screen -r zonaairdrop 
+```
+- check privatkey, Address 
+```bash
+cat ~/popm-address.json
+```
+
+**Notes: Use New Wallet Select No. 1 Save Private key and Wallet Address. Fill in the Faucet in Discord. and run your mining**
 
 
