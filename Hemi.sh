@@ -84,7 +84,7 @@ if [ "$choice" == "1" ]; then
                 exit 1
             fi
 
-            show "PoP mining has started in the detached screen session named 'airdropnode'."
+            show "PoP mining has started in the detached screen session named 'zonaairdrop'."
         fi
     fi
 
